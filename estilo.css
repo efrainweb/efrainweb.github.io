@@ -1,0 +1,36 @@
+/* Paso 1: Estilizar el Cuerpo */
+body {
+  font-family: "Times New Roman", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f5f0;
+}
+
+/* Paso 2: Estilizar la Tarjeta de Invitación */
+.invitation {
+  background-color: #fff;
+  border: 2px solid gold;
+  padding: 20px;
+  width: 350px;
+  text-align: center;
+  border-radius: 10%;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1); /* Sombra añadida */
+}
+
+/* Paso 3: Estilizar el Texto */
+h2 {
+  color: goldenrod;
+  font-size: 22px;
+}
+
+.names {
+  font-family: "dancing Script", cursive;
+  font-size: 26px;
+}
+
+p {
+  font-size: 18px;
+  color: #5a4d3f;
+}
